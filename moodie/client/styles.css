@@ -1,0 +1,29 @@
+body {
+      background-color: #121212;
+      color: white;
+      font-family: 'Segoe UI', sans-serif;
+}
+
+#moodCard {
+      border-radius: 16px;
+}
+
+.suggestion-box {
+      background-color: #1f1f1f;
+      border: 1px solid #333;
+      border-radius: 12px;
+      transition: transform 0.2s ease;
+}
+
+.suggestion-box:hover {
+      transform: translateY(-5px);
+}
+
+button {
+      width: 100%;
+}
+
+h1,
+h2 {
+      font-weight: 600;
+}
